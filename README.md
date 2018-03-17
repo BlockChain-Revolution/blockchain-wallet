@@ -3,7 +3,7 @@
 Simple command line bitcoin wallet
 
 ## Getting Started
-Install the module with: `npm install btcwallet`
+Install the module with: `yarn add btcwallet`
 
 Set up your wallet with your bitcoin addresses and an encryption password:
 
